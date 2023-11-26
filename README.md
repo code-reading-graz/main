@@ -12,7 +12,7 @@ discouraged, so please do not be an author or related to the code owners.
 ## FAQ
 
 **How do I suggest a talk or topic?** We use [GitHub Discussions] to share
-ideas, thougths, feedback, and discuss about upcoming topics. Please do not
+ideas, thoughts, feedback, and discuss about upcoming topics. Please do not
 hesitate to bring in your own presentation, any organizer will confirm and
 contact you for discussing details. You can also share any idea on a topic or
 software you would like to be read at an event.
@@ -20,7 +20,7 @@ software you would like to be read at an event.
 **What criteria must a software source code fulfill to be considered?** We only
 read through software that is public available. Further, you must not be the
 owner or author of a project as Code Reading Graz is **not meant to host
-self-promotions or advertisments**. For sure you can still be contributor to
+self-promotions or advertisements**. For sure you can still be contributor to
 an open-source application.
 
 **As the event is taking place in Graz, are we going to talk in german?** No.
