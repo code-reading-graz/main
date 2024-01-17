@@ -1,5 +1,4 @@
-# -H templates/slides-header.tex
-PANDOC_OPTS=-t beamer
+PANDOC_OPTS=-t beamer -H templates/slides-header.tex
 
 .PHONY: presentation
 presentation: introduction.pdf

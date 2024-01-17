@@ -1,0 +1,31 @@
+\definecolor{fgColor}{RGB}{0,0,0} % #000000
+\definecolor{bgColor}{RGB}{217,210,158} % #d9d29e
+
+\setbeamercolor{titlelike}{parent=structure,fg=fgColor,bg=bgColor}
+
+\setbeamercolor*{palette primary}{bg=bgColor, fg=fgColor}
+\setbeamercolor*{palette secondary}{bg=bgColor, fg=fgColor}
+\setbeamercolor*{palette tertiary}{bg=bgColor, fg=fgColor}
+\setbeamercolor*{palette quaternary}{bg=fgColor, fg=bgColor}
+
+\addtobeamertemplate{navigation symbols}{}{%
+  \usebeamerfont{footline}%
+    \usebeamercolor[fg]{footline}%
+    \hspace{1em}%
+    \insertframenumber/\inserttotalframenumber
+}
+\renewcommand{\footnotesize}{\fontsize{6pt}{11pt}\selectfont}
+
+
+\usepackage[font=tiny,labelfont=bf]{caption}
+
+\let\oldTexttt\texttt
+\renewcommand{\texttt}[1]{\oldTexttt{\colorbox{gray!25}{#1}}}
+
+% have a default vertical spacer at hand
+\newcommand{\spacer}{\vspace{2.5em}}
+
+% change list item style to use default, triangle
+\setbeamertemplate{itemize items}[default]
+% increase space between list items
+\setlength\itemsep{2.5em}

@@ -1,3 +1,14 @@
+---
+# vim: set ft=markdown:
+author: Christoph Lipautz
+title: Introduction
+subtitle: Code Reading Graz
+theme: Copenhagen
+colortheme: beaver
+date: \today
+fontsize: 12pt
+keywords: ['code', 'meetup']
+---
 
 # Code Reading Graz - Introduction
 
