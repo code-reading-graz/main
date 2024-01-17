@@ -1,5 +1,7 @@
 # Code Reading Graz
 
+It's like a bookclub but with software code.
+
 There are so many great software projects that share their source code
 available to the public. At Code Reading Graz we pick some of them and look at
 the details. What can we learn about the architecture? What tools support the
@@ -9,7 +11,27 @@ As a group we will explore and discuss one application at a time, sharing our
 thoughts and stories. Prepared presentations are welcome, but self-promotion is
 discouraged, so please do not be an author or related to the code owners.
 
+We're flexible with any kind of presentation, workshop, or discussion. In best
+case we keep it similar to a bookclub:
+
+- A topic (software, programming language, technology, etc.) is announced
+  timely before the event.
+- Readers are encouraged to look into the topic. You can prepare details, run
+  specific showcases, or have a list of questions prepared you would like to
+  share. However, there's no need to prepare at all - it can be fun to explore
+  a project together, without having ever looked into it.
+- As with a bookclub we do not follow specific goals in discussions. Everyone
+  should feel welcome. Members are expected to understand that others have
+  different opinions, as well as level of experience.
+- Discussions are a great way to learn from each other. What are similar
+  solutions to what we've just seen? How can it be implemented in a more
+  efficient way? What would be the benefits and downsides?
+
 ## FAQ
+
+**I'm in, Where and When?** It is planned to meet in the middle of each month
+for about two hours in the evening. The location will be announced about two
+weeks in advance.
 
 **How do I suggest a talk or topic?** We use [GitHub Discussions] to share
 ideas, thoughts, feedback, and discuss about upcoming topics. Please do not
