@@ -28,7 +28,7 @@ A Bookclub for Software
 
 ## Time & Duration
 
-An evening in the mid of the month, around max. 2h.
+An evening every quarter, around max. 2h.
 
 ## Topic Selection
 
